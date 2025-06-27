@@ -1,5 +1,5 @@
 ## Resultado
-[Clique aqui](https://agify-demo-svelte-1ac7pw077-jaianeoliveiras-projects.vercel.app/?name=Jaiane) para testar.
+[Clique aqui](https://agify-demo-svelte-1ac7pw077-jaianeoliveiras-projects.vercel.app) para testar.
 
 
 # SvelteKit Test App
